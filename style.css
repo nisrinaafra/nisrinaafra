@@ -1,0 +1,30 @@
+body {
+	background: #ffffe6 url("fiks.PNG") no-repeat right top;
+}
+h1 {
+	font-family: Mona Lisa Solid;
+	color: maroon;
+	text-align: center;
+	font-size: 50px;
+	top: 50%
+	transform: translateY(-50%);
+	width: 100%;
+}
+img {
+	border-radius: 50%;
+	width : 300px;
+	height : 300px;
+}
+p {
+	font-family: Courier New;
+	color: maroon;
+	text-align: justify;
+	text-indent: 1cm;
+	font-size: 20px;
+}
+ul {
+	font-family: Courier New;
+	color: maroon;
+	text-indent: 0.5cm;
+	font-size: 20px;
+}
